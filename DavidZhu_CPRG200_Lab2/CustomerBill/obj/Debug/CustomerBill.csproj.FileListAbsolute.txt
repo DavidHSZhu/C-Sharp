@@ -1,0 +1,45 @@
+H:\c#\test1\CustomerBill\CustomerBill\bin\Debug\CustomerBill.exe.config
+H:\c#\test1\CustomerBill\CustomerBill\obj\Debug\CustomerBill.csprojResolveAssemblyReference.cache
+H:\c#\test1\CustomerBill\CustomerBill\obj\Debug\CustomerBill.Form1.resources
+H:\c#\test1\CustomerBill\CustomerBill\obj\Debug\CustomerBill.Properties.Resources.resources
+H:\c#\test1\CustomerBill\CustomerBill\obj\Debug\CustomerBill.csproj.GenerateResource.Cache
+H:\c#\test1\CustomerBill\CustomerBill\bin\Debug\CustomerBill.exe
+H:\c#\test1\CustomerBill\CustomerBill\bin\Debug\CustomerBill.pdb
+H:\c#\test1\CustomerBill\CustomerBill\obj\Debug\CustomerBill.exe
+H:\c#\test1\CustomerBill\CustomerBill\obj\Debug\CustomerBill.pdb
+H:\c#\test1\CustomerBill_2\CustomerBill\bin\Debug\CustomerBill.exe.config
+H:\c#\test1\CustomerBill_2\CustomerBill\obj\Debug\CustomerBill.exe
+H:\c#\test1\CustomerBill_2\CustomerBill\obj\Debug\CustomerBill.pdb
+H:\c#\test1\CustomerBill_2\CustomerBill\bin\Debug\CustomerBill.exe
+H:\c#\test1\CustomerBill_2\CustomerBill\bin\Debug\CustomerBill.pdb
+H:\c#\test1\CustomerBill_2\CustomerBill\obj\Debug\CustomerBill.csprojResolveAssemblyReference.cache
+H:\c#\test1\CustomerBill_2\CustomerBill\obj\Debug\CustomerBill.Form1.resources
+H:\c#\test1\CustomerBill_2\CustomerBill\obj\Debug\CustomerBill.Properties.Resources.resources
+H:\c#\test1\CustomerBill_2\CustomerBill\obj\Debug\CustomerBill.csproj.GenerateResource.Cache
+C:\OOSD\CPRG200 C#\CustomerBill_2\CustomerBill_2\CustomerBill\bin\Debug\CustomerBill.exe.config
+C:\OOSD\CPRG200 C#\CustomerBill_2\CustomerBill_2\CustomerBill\obj\Debug\CustomerBill.exe
+C:\OOSD\CPRG200 C#\CustomerBill_2\CustomerBill_2\CustomerBill\obj\Debug\CustomerBill.pdb
+C:\OOSD\CPRG200 C#\CustomerBill_2\CustomerBill_2\CustomerBill\bin\Debug\CustomerBill.exe
+C:\OOSD\CPRG200 C#\CustomerBill_2\CustomerBill_2\CustomerBill\bin\Debug\CustomerBill.pdb
+C:\OOSD\CPRG200 C#\CustomerBill_2\CustomerBill_2\CustomerBill\obj\Debug\CustomerBill.csprojResolveAssemblyReference.cache
+C:\OOSD\CPRG200 C#\CustomerBill_2\CustomerBill_2\CustomerBill\obj\Debug\CustomerBill.Form1.resources
+C:\OOSD\CPRG200 C#\CustomerBill_2\CustomerBill_2\CustomerBill\obj\Debug\CustomerBill.Properties.Resources.resources
+C:\OOSD\CPRG200 C#\CustomerBill_2\CustomerBill_2\CustomerBill\obj\Debug\CustomerBill.csproj.GenerateResource.Cache
+J:\CustomerBill_2\CustomerBill\bin\Debug\CustomerBill.exe.config
+J:\CustomerBill_2\CustomerBill\obj\Debug\CustomerBill.exe
+J:\CustomerBill_2\CustomerBill\obj\Debug\CustomerBill.pdb
+J:\CustomerBill_2\CustomerBill\bin\Debug\CustomerBill.exe
+J:\CustomerBill_2\CustomerBill\bin\Debug\CustomerBill.pdb
+J:\CustomerBill_2\CustomerBill\obj\Debug\CustomerBill.csprojResolveAssemblyReference.cache
+J:\CustomerBill_2\CustomerBill\obj\Debug\CustomerBill.Form1.resources
+J:\CustomerBill_2\CustomerBill\obj\Debug\CustomerBill.Properties.Resources.resources
+J:\CustomerBill_2\CustomerBill\obj\Debug\CustomerBill.csproj.GenerateResource.Cache
+C:\OOSD\CPRG200 C#\DavidZhu_CPRG200_Lab2\CustomerBill\bin\Debug\CustomerBill.exe.config
+C:\OOSD\CPRG200 C#\DavidZhu_CPRG200_Lab2\CustomerBill\obj\Debug\CustomerBill.exe
+C:\OOSD\CPRG200 C#\DavidZhu_CPRG200_Lab2\CustomerBill\obj\Debug\CustomerBill.pdb
+C:\OOSD\CPRG200 C#\DavidZhu_CPRG200_Lab2\CustomerBill\bin\Debug\CustomerBill.exe
+C:\OOSD\CPRG200 C#\DavidZhu_CPRG200_Lab2\CustomerBill\bin\Debug\CustomerBill.pdb
+C:\OOSD\CPRG200 C#\DavidZhu_CPRG200_Lab2\CustomerBill\obj\Debug\CustomerBill.csprojResolveAssemblyReference.cache
+C:\OOSD\CPRG200 C#\DavidZhu_CPRG200_Lab2\CustomerBill\obj\Debug\CustomerBill.Form1.resources
+C:\OOSD\CPRG200 C#\DavidZhu_CPRG200_Lab2\CustomerBill\obj\Debug\CustomerBill.Properties.Resources.resources
+C:\OOSD\CPRG200 C#\DavidZhu_CPRG200_Lab2\CustomerBill\obj\Debug\CustomerBill.csproj.GenerateResource.Cache

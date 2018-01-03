@@ -1,0 +1,4 @@
+1,David,R,58.000
+2,Rosen,R,58.000
+3,SuperStore,C,105.000
+4,SAIT,I,116
