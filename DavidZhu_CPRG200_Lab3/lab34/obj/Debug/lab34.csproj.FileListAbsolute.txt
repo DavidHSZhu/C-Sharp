@@ -1,0 +1,33 @@
+c:\users\615786\documents\visual studio 2015\Projects\lab34\lab34\bin\Debug\lab34.exe.config
+c:\users\615786\documents\visual studio 2015\Projects\lab34\lab34\bin\Debug\northwnd.mdf
+c:\users\615786\documents\visual studio 2015\Projects\lab34\lab34\bin\Debug\northwnd_log.ldf
+c:\users\615786\documents\visual studio 2015\Projects\lab34\lab34\bin\Debug\lab34.exe
+c:\users\615786\documents\visual studio 2015\Projects\lab34\lab34\bin\Debug\lab34.pdb
+c:\users\615786\documents\visual studio 2015\Projects\lab34\lab34\obj\Debug\lab34.csprojResolveAssemblyReference.cache
+c:\users\615786\documents\visual studio 2015\Projects\lab34\lab34\obj\Debug\lab34.Form1.resources
+c:\users\615786\documents\visual studio 2015\Projects\lab34\lab34\obj\Debug\lab34.Properties.Resources.resources
+c:\users\615786\documents\visual studio 2015\Projects\lab34\lab34\obj\Debug\lab34.csproj.GenerateResource.Cache
+c:\users\615786\documents\visual studio 2015\Projects\lab34\lab34\obj\Debug\lab34.exe
+c:\users\615786\documents\visual studio 2015\Projects\lab34\lab34\obj\Debug\lab34.pdb
+C:\OOSD\CPRG200 C#\DavidZhu_CPRG200_Lab3\lab34\bin\Debug\lab34.exe.config
+C:\OOSD\CPRG200 C#\DavidZhu_CPRG200_Lab3\lab34\obj\Debug\lab34.exe
+C:\OOSD\CPRG200 C#\DavidZhu_CPRG200_Lab3\lab34\obj\Debug\lab34.pdb
+C:\OOSD\CPRG200 C#\DavidZhu_CPRG200_Lab3\lab34\bin\Debug\northwnd.mdf
+C:\OOSD\CPRG200 C#\DavidZhu_CPRG200_Lab3\lab34\bin\Debug\northwnd_log.ldf
+C:\OOSD\CPRG200 C#\DavidZhu_CPRG200_Lab3\lab34\bin\Debug\lab34.exe
+C:\OOSD\CPRG200 C#\DavidZhu_CPRG200_Lab3\lab34\bin\Debug\lab34.pdb
+C:\OOSD\CPRG200 C#\DavidZhu_CPRG200_Lab3\lab34\obj\Debug\lab34.csprojResolveAssemblyReference.cache
+C:\OOSD\CPRG200 C#\DavidZhu_CPRG200_Lab3\lab34\obj\Debug\lab34.Form1.resources
+C:\OOSD\CPRG200 C#\DavidZhu_CPRG200_Lab3\lab34\obj\Debug\lab34.Properties.Resources.resources
+C:\OOSD\CPRG200 C#\DavidZhu_CPRG200_Lab3\lab34\obj\Debug\lab34.csproj.GenerateResource.Cache
+H:\c#\DavidZhu_CPRG200_Lab3\lab34\bin\Debug\lab34.exe.config
+H:\c#\DavidZhu_CPRG200_Lab3\lab34\obj\Debug\lab34.exe
+H:\c#\DavidZhu_CPRG200_Lab3\lab34\obj\Debug\lab34.pdb
+H:\c#\DavidZhu_CPRG200_Lab3\lab34\bin\Debug\northwnd.mdf
+H:\c#\DavidZhu_CPRG200_Lab3\lab34\bin\Debug\northwnd_log.ldf
+H:\c#\DavidZhu_CPRG200_Lab3\lab34\bin\Debug\lab34.exe
+H:\c#\DavidZhu_CPRG200_Lab3\lab34\bin\Debug\lab34.pdb
+H:\c#\DavidZhu_CPRG200_Lab3\lab34\obj\Debug\lab34.csprojResolveAssemblyReference.cache
+H:\c#\DavidZhu_CPRG200_Lab3\lab34\obj\Debug\lab34.Form1.resources
+H:\c#\DavidZhu_CPRG200_Lab3\lab34\obj\Debug\lab34.Properties.Resources.resources
+H:\c#\DavidZhu_CPRG200_Lab3\lab34\obj\Debug\lab34.csproj.GenerateResource.Cache
