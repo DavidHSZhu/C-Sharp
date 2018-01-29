@@ -1,0 +1,29 @@
+H:\c#\Lab4\Lab4\bin\Debug\Lab4.exe.config
+H:\c#\Lab4\Lab4\bin\Debug\northwnd.mdf
+H:\c#\Lab4\Lab4\bin\Debug\northwnd_log.ldf
+H:\c#\Lab4\Lab4\bin\Debug\Lab4.exe
+H:\c#\Lab4\Lab4\bin\Debug\Lab4.pdb
+H:\c#\Lab4\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+H:\c#\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+H:\c#\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.Cache
+H:\c#\Lab4\Lab4\obj\Debug\Lab4.exe
+H:\c#\Lab4\Lab4\obj\Debug\Lab4.pdb
+H:\c#\Lab4\Lab4\bin\Debug\NorthWndDB.cs
+H:\c#\Lab4\Lab4\obj\Debug\Lab4.frmOrderMaintenance.resources
+H:\c#\Lab4\Lab4\obj\Debug\Lab4.frmOrderUpdate.resources
+C:\OOSD\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\OOSD\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\OOSD\Lab4\Lab4\obj\Debug\Lab4.pdb
+C:\OOSD\Lab4\Lab4\bin\Debug\northwnd.mdf
+C:\OOSD\Lab4\Lab4\bin\Debug\northwnd_log.ldf
+C:\OOSD\Lab4\Lab4\bin\Debug\NorthWndDB.cs
+C:\OOSD\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\OOSD\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\OOSD\Lab4\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+C:\OOSD\Lab4\Lab4\obj\Debug\Lab4.frmOrderMaintenance.resources
+C:\OOSD\Lab4\Lab4\obj\Debug\Lab4.frmOrderUpdate.resources
+C:\OOSD\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\OOSD\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.Cache
+C:\OOSD\CPRG200 C#\DavidZhu_CPRG200_Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\OOSD\CPRG200 C#\DavidZhu_CPRG200_Lab4\Lab4\obj\Debug\Lab4.exe
+C:\OOSD\CPRG200 C#\DavidZhu_CPRG200_Lab4\Lab4\obj\Debug\Lab4.pdb
